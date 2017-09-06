@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sketch</string>
+    <string name="config">Settings</string>
+    <string name="save">Save</string>
+    <string name="image_name">SKETCH_IMAGE_%d.jpg</string>
+    <string name="style">Style</string>
+    <string name="color_theme">Color Theme:</string>
+    <string name="dark">Dark</string>
+    <string name="classic">Classic</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sketch</string>
+    <string name="config">Configuración</string>
+    <string name="save">Guardar</string>
+    <string name="image_name">SKETCH_IMAGE_%d.jpg</string>
+    <string name="style">Estilo:</string>
+</resources>
