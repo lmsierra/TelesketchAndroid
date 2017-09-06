@@ -1,2 +1,2 @@
 # TelesketchAndroid
-Android sample simulating a telesketch.
+Android sample simulating a telesketch using a canvas.
